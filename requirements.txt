@@ -6,4 +6,3 @@ catboost
 xgboost
 dill
 #-e .
-#setuptools

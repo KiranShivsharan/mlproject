@@ -10,8 +10,7 @@ Here we train the Model using different features of students and predict the MAT
 [Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977]
 -------------------------------------------------
 
-## Getting Started
-  ## Table of Contents
+## Table of Contents
 - [Getting Started](#getting-started)
 	- [Tools Required](#tools-required)
 	- [Installation](#installation)
@@ -21,7 +20,8 @@ Here we train the Model using different features of students and predict the MAT
 - [Authors](#authors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-  
+
+## Getting Started
 ### Tools Required
 
 All tools required go here. You would require the following tools to develop and run the project:
@@ -58,7 +58,7 @@ This section gives some insight and a basic overview of Development.
 - Exploratory data analysis
 - Data Pre-Processing
 - Model Training
-- - Choose the best model
+- Choose the best model
 
 ### 1) Problem statement
 - This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
@@ -133,7 +133,8 @@ This section gives some insight and a basic overview of Development.
                 - `pd.DataFrame({'Actual Value':y_test,'Predicted Value':y_pred,'Difference':y_test-y_pred})`
 
 THEN
-- ### Run on Local system
+
+## Run on Local system
 - Open the  terminal
 - activate the conda environment 
 `conda activate newenv`
